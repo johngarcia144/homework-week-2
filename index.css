@@ -1,0 +1,16 @@
+body {
+    background-color: #659dbd;
+    background-image: url(Assets/Images/45-degree-fabric-dark.png);
+}
+
+nav {
+    background-color: #8d8741;
+}
+
+.nav-link {
+    float: right;
+}
+
+.jumbotron {
+    padding-top: 100px;
+}
