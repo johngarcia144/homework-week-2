@@ -2,3 +2,8 @@ body {
     background-color: #659dbd;
     background-image: url(Assets/Images/45-degree-fabric-dark.png);
 }
+
+img {
+    max-height: 300px;
+    max-width: 300px;
+  }
