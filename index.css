@@ -3,10 +3,15 @@ body {
     background-image: url(Assets/Images/45-degree-fabric-dark.png);
 }
 
+img {
+    max-height: 350px;
+    max-width: 500px;
+}
+
 footer {
-    background: #3f6435;
+    background: #6a6686;
     color: black;
-    line-height: 50px;
+    line-height: 35px;
     padding: 0 20px;
     margin-bottom: 0rem;
     position: fixed;
