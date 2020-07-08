@@ -9,10 +9,9 @@ img {
 }
 
 footer {
-    background: #6a6686;
-    color: black;
-    line-height: 35px;
-    padding: 0 20px;
+    background: #292b2c; 
+    color: darkgrey;
+    line-height: 30px;
     margin-bottom: 0rem;
     position: fixed;
     bottom: 0;
