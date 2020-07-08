@@ -1,5 +1,12 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
+For this week's homework, we created a portfolio website from scratch. Using bootstrap as a starting point, I created a responsive site featuring an About, Contact and Portfolio page. There is a functional navigation at the top, and a sticky footer at the bottom. Though it was challenging fitting everything in to bootstrap's grid system, persistence prevailed and I belive I created a dang good website.
+
+See the assignment summary below for more context.
+
+
+
+
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
 
