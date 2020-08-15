@@ -31,3 +31,7 @@ nav {
 #photo-column {
     display: flex;
 }
+
+#contact {
+    color: whitesmoke;
+}
